@@ -1,3 +1,3 @@
 # gurunath
 my first repository <br>
-author - gurunath
+author - gurunath (gurunath)
